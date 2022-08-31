@@ -3,14 +3,30 @@ owner: IDKHTS # Your GitHub organization or username, where this repository live
 repo: upptime-demo # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Org Home
+    url: https://snapmaker.com
+  - name: Support Home
+    url: https://support.snapmaker.com/hc/en-us
+  - name: CN Org Home
+    url: https://snapmaker.cn/
+  - name: Ohters Shopify
+    url: https://shop.snapmaker.com/
+  - name: Ohters Shopify
+    url: https://eu.snapmaker.com/
+  - name: Ohters Shopify
+    url: https://us.snapmaker.com/
+  - name: Org Artisan
+    url: https://snapmaker.com/snapmaker-artisan
+  - name: Org Snapmaker 2
+    url: https://snapmaker.com/snapmaker-2
+  - name: Org 10W Laser
+    url: https://snapmaker.com/snapmaker-10w-laser-module
+  - name: Org Software
+    url: https://snapmaker.com/snapmaker-luban
+  - name: Org Materials
+    url: https://snapmaker.com/materials
+  - name: Org Community
+    url: https://snapmaker.com/community
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
