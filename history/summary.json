@@ -34,7 +34,7 @@
     "timeMonth": 199,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2022-09-13": 74,
+      "2022-09-13": 446,
       "2022-09-12": 1440,
       "2022-09-11": 1440,
       "2022-09-10": 1440,
@@ -55,9 +55,9 @@
     "url": "https://snapmaker.cn/",
     "icon": "https://favicons.githubusercontent.com/snapmaker.cn",
     "slug": "cn-org-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -66,7 +66,9 @@
     "timeWeek": 2042,
     "timeMonth": 2235,
     "timeYear": 2235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-13": 0
+    }
   },
   {
     "name": "Ohters Shopify",
