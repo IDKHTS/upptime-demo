@@ -34,7 +34,7 @@
     "timeMonth": 199,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2022-09-13": 446,
+      "2022-09-13": 472,
       "2022-09-12": 1440,
       "2022-09-11": 1440,
       "2022-09-10": 1440,
@@ -55,19 +55,19 @@
     "url": "https://snapmaker.cn/",
     "icon": "https://favicons.githubusercontent.com/snapmaker.cn",
     "slug": "cn-org-home",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2235,
-    "timeDay": 2189,
-    "timeWeek": 2042,
-    "timeMonth": 2235,
-    "timeYear": 2235,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 2439,
+    "timeDay": 3838,
+    "timeWeek": 2472,
+    "timeMonth": 2439,
+    "timeYear": 2439,
     "dailyMinutesDown": {
-      "2022-09-13": 0
+      "2022-09-13": 27
     }
   },
   {
