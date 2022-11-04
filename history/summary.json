@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/snapmaker.com.ico",
     "slug": "org-home",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.78%",
+    "uptimeDay": "85.46%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.78%",
     "time": 549,
     "timeDay": 524,
     "timeWeek": 533,
     "timeMonth": 553,
     "timeYear": 549,
     "dailyMinutesDown": {
-      "2022-11-04": 3
+      "2022-11-04": 209
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 167,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2022-11-04": 679,
+      "2022-11-04": 885,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
@@ -188,18 +188,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/snapmaker.com.ico",
     "slug": "org-artisan",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.75%",
+    "uptimeDay": "85.50%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.75%",
     "time": 466,
     "timeDay": 440,
     "timeWeek": 481,
     "timeMonth": 486,
     "timeYear": 466,
     "dailyMinutesDown": {
-      "2022-11-04": 3,
+      "2022-11-04": 209,
       "2022-09-22": 29
     }
   },
@@ -209,18 +209,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/snapmaker.com.ico",
     "slug": "org-snapmaker-2",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.78%",
+    "uptimeDay": "85.54%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.78%",
     "time": 244,
     "timeDay": 200,
     "timeWeek": 227,
     "timeMonth": 232,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2022-11-04": 2
+      "2022-11-04": 208
     }
   },
   {
@@ -229,18 +229,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/snapmaker.com.ico",
     "slug": "org-10-w-laser",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.78%",
+    "uptimeDay": "85.57%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.78%",
     "time": 217,
     "timeDay": 207,
     "timeWeek": 213,
     "timeMonth": 216,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2022-11-04": 2
+      "2022-11-04": 208
     }
   },
   {
@@ -249,18 +249,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/snapmaker.com.ico",
     "slug": "org-software",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.78%",
+    "uptimeDay": "85.61%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.78%",
     "time": 160,
     "timeDay": 143,
     "timeWeek": 160,
     "timeMonth": 163,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2022-11-04": 1
+      "2022-11-04": 207
     }
   },
   {
@@ -268,19 +268,19 @@
     "url": "https://snapmaker.com/materials",
     "icon": "https://icons.duckduckgo.com/ip3/snapmaker.com.ico",
     "slug": "org-materials",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 162,
-    "timeDay": 152,
-    "timeWeek": 169,
-    "timeMonth": 173,
-    "timeYear": 162,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "85.66%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.78%",
+    "time": 274,
+    "timeDay": 3901,
+    "timeWeek": 1104,
+    "timeMonth": 407,
+    "timeYear": 274,
     "dailyMinutesDown": {
-      "2022-11-04": 1
+      "2022-11-04": 207
     }
   },
   {
@@ -288,19 +288,19 @@
     "url": "https://snapmaker.com/community",
     "icon": "https://icons.duckduckgo.com/ip3/snapmaker.com.ico",
     "slug": "org-community",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 200,
-    "timeWeek": 193,
-    "timeMonth": 196,
-    "timeYear": 201,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "85.69%",
+    "uptimeWeek": "97.96%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.78%",
+    "time": 202,
+    "timeDay": 228,
+    "timeWeek": 201,
+    "timeMonth": 198,
+    "timeYear": 202,
     "dailyMinutesDown": {
-      "2022-11-04": 0
+      "2022-11-04": 206
     }
   }
 ]
