@@ -36,7 +36,7 @@
     "timeMonth": 160,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2022-11-06": 1234,
+      "2022-11-06": 1244,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
@@ -135,19 +135,19 @@
     "url": "https://shop.snapmaker.com/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.snapmaker.com.ico",
     "slug": "ohters-shopify",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 423,
-    "timeDay": 245,
-    "timeWeek": 357,
-    "timeMonth": 408,
-    "timeYear": 423,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 420,
+    "timeDay": 241,
+    "timeWeek": 346,
+    "timeMonth": 402,
+    "timeYear": 420,
     "dailyMinutesDown": {
-      "2022-11-06": 15
+      "2022-11-06": 26
     }
   },
   {
