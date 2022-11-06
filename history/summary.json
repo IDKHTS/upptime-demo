@@ -36,7 +36,7 @@
     "timeMonth": 160,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2022-11-06": 1244,
+      "2022-11-06": 1279,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
@@ -136,18 +136,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.snapmaker.com.ico",
     "slug": "ohters-shopify",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 420,
     "timeDay": 241,
     "timeWeek": 346,
     "timeMonth": 402,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2022-11-06": 26
+      "2022-11-06": 15
     }
   },
   {
@@ -173,18 +173,20 @@
     "url": "https://us.snapmaker.com/",
     "icon": "https://icons.duckduckgo.com/ip3/us.snapmaker.com.ico",
     "slug": "us-shopify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 705,
-    "timeWeek": 504,
-    "timeMonth": 529,
-    "timeYear": 489,
-    "dailyMinutesDown": {}
+    "time": 484,
+    "timeDay": 423,
+    "timeWeek": 459,
+    "timeMonth": 517,
+    "timeYear": 484,
+    "dailyMinutesDown": {
+      "2022-11-06": 0
+    }
   },
   {
     "name": "Org Artisan",
