@@ -1,7 +1,7 @@
 url: https://snapmaker.com/snapmaker-luban
-status: up
-code: 200
-responseTime: 480
-lastUpdated: 2022-11-26T04:09:48.927Z
+status: down
+code: 502
+responseTime: 39
+lastUpdated: 2022-11-26T05:19:25.264Z
 startTime: Wed Aug 31 2022 08:57:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
