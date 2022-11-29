@@ -1,7 +1,7 @@
 url: https://snapmaker.com/snapmaker-artisan
-status: down
-code: 502
-responseTime: 15
-lastUpdated: 2022-11-29T08:48:12.011Z
+status: up
+code: 200
+responseTime: 653
+lastUpdated: 2022-11-29T09:11:41.747Z
 startTime: Wed Aug 31 2022 08:57:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
