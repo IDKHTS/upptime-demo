@@ -1,7 +1,7 @@
 url: https://snapmaker.com/snapmaker-2
-status: up
-code: 200
-responseTime: 13965
-lastUpdated: 2023-03-31T18:34:16.236Z
+status: down
+code: 502
+responseTime: 45
+lastUpdated: 2023-03-31T18:41:40.364Z
 startTime: Wed Aug 31 2022 08:57:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
