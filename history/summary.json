@@ -41,7 +41,7 @@
     "timeMonth": 146,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2023-05-22": 53,
+      "2023-05-22": 138,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -565,9 +565,9 @@
     "url": "https://api.snapmaker.com/luban-installers",
     "icon": "https://icons.duckduckgo.com/ip3/api.snapmaker.com.ico",
     "slug": "luban-installer",
-    "status": "up",
+    "status": "down",
     "uptime": "95.18%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.18%",
@@ -577,6 +577,7 @@
     "timeMonth": 249,
     "timeYear": 266,
     "dailyMinutesDown": {
+      "2023-05-22": 0,
       "2023-03-23": 457,
       "2023-03-22": 193,
       "2023-01-27": 45,
