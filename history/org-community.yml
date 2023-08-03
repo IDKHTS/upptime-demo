@@ -1,7 +1,7 @@
 url: https://snapmaker.com/community
-status: up
-code: 200
-responseTime: 334
-lastUpdated: 2023-08-02T23:06:21.836Z
+status: down
+code: 502
+responseTime: 70
+lastUpdated: 2023-08-03T15:37:16.914Z
 startTime: Wed Aug 31 2022 08:57:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
