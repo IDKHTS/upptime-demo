@@ -1,7 +1,7 @@
 url: https://snapmaker.com/snapmaker-10w-laser-module
-status: down
-code: 502
-responseTime: 73
-lastUpdated: 2023-08-03T15:37:09.860Z
+status: up
+code: 200
+responseTime: 7508
+lastUpdated: 2023-08-03T16:00:26.290Z
 startTime: Wed Aug 31 2022 08:57:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
