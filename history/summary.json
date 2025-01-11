@@ -54,7 +54,7 @@
     "timeMonth": 107,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-01-11": 60,
+      "2025-01-11": 150,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
@@ -426,9 +426,9 @@
     "url": "https://snapmaker.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/snapmaker.cn.ico",
     "slug": "cn-org-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.25%",
@@ -438,6 +438,7 @@
     "timeMonth": 2461,
     "timeYear": 2657,
     "dailyMinutesDown": {
+      "2025-01-11": 0,
       "2024-12-28": 93,
       "2024-12-25": 136,
       "2024-12-19": 128,
