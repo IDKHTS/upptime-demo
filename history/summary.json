@@ -54,7 +54,7 @@
     "timeMonth": 121,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-04-26": 64,
+      "2025-04-26": 530,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
@@ -496,54 +496,60 @@
     "url": "https://shop.snapmaker.com/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.snapmaker.com.ico",
     "slug": "ohters-shopify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 405,
-    "timeDay": 172,
-    "timeWeek": 293,
-    "timeMonth": 286,
-    "timeYear": 416,
-    "dailyMinutesDown": {}
+    "timeDay": 139,
+    "timeWeek": 270,
+    "timeMonth": 281,
+    "timeYear": 415,
+    "dailyMinutesDown": {
+      "2025-04-26": 0
+    }
   },
   {
     "name": "EU Shopify",
     "url": "https://eu.snapmaker.com/",
     "icon": "https://icons.duckduckgo.com/ip3/eu.snapmaker.com.ico",
     "slug": "eu-shopify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 393,
-    "timeDay": 199,
-    "timeWeek": 383,
-    "timeMonth": 368,
-    "timeYear": 409,
-    "dailyMinutesDown": {}
+    "timeDay": 150,
+    "timeWeek": 348,
+    "timeMonth": 359,
+    "timeYear": 408,
+    "dailyMinutesDown": {
+      "2025-04-26": 0
+    }
   },
   {
     "name": "US Shopify",
     "url": "https://us.snapmaker.com/",
     "icon": "https://icons.duckduckgo.com/ip3/us.snapmaker.com.ico",
     "slug": "us-shopify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 495,
-    "timeDay": 869,
-    "timeWeek": 597,
-    "timeMonth": 497,
-    "timeYear": 523,
-    "dailyMinutesDown": {}
+    "timeDay": 487,
+    "timeWeek": 535,
+    "timeMonth": 484,
+    "timeYear": 522,
+    "dailyMinutesDown": {
+      "2025-04-26": 0
+    }
   },
   {
     "name": "Org Artisan",
