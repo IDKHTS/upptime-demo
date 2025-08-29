@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/snapmaker.com.ico",
     "slug": "org-home",
     "status": "down",
-    "uptime": "95.37%",
+    "uptime": "95.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "25.30%",
     "uptimeYear": "88.75%",
     "time": 298,
-    "timeDay": 276,
-    "timeWeek": 255,
-    "timeMonth": 226,
-    "timeYear": 247,
+    "timeDay": 128,
+    "timeWeek": 256,
+    "timeMonth": 227,
+    "timeYear": 246,
     "dailyMinutesDown": {
-      "2025-08-28": 65,
+      "2025-08-29": 65,
+      "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -58,8 +59,7 @@
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 328,
-      "2024-08-30": 171,
-      "2024-08-29": 1440
+      "2024-08-30": 171
     }
   },
   {
@@ -74,12 +74,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 120,
-    "timeDay": 303,
-    "timeWeek": 240,
-    "timeMonth": 175,
+    "timeDay": 62,
+    "timeWeek": 190,
+    "timeMonth": 173,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-08-28": 65,
+      "2025-08-29": 65,
+      "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -442,8 +443,7 @@
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
-      "2024-08-30": 1440,
-      "2024-08-29": 1440
+      "2024-08-30": 1440
     }
   },
   {
@@ -457,11 +457,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "98.63%",
-    "time": 2576,
-    "timeDay": 2279,
-    "timeWeek": 2300,
-    "timeMonth": 2395,
-    "timeYear": 2611,
+    "time": 2575,
+    "timeDay": 2446,
+    "timeWeek": 2301,
+    "timeMonth": 2399,
+    "timeYear": 2610,
     "dailyMinutesDown": {
       "2025-08-19": 68,
       "2025-05-12": 34,
@@ -518,10 +518,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 433,
-    "timeDay": 1037,
-    "timeWeek": 595,
-    "timeMonth": 707,
-    "timeYear": 428,
+    "timeDay": 289,
+    "timeWeek": 616,
+    "timeMonth": 710,
+    "timeYear": 426,
     "dailyMinutesDown": {
       "2025-08-07": 25
     }
@@ -538,9 +538,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 452,
-    "timeDay": 1339,
-    "timeWeek": 422,
-    "timeMonth": 689,
+    "timeDay": 257,
+    "timeWeek": 440,
+    "timeMonth": 693,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2025-08-07": 25
@@ -557,11 +557,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 533,
-    "timeDay": 1100,
-    "timeWeek": 653,
-    "timeMonth": 731,
-    "timeYear": 519,
+    "time": 534,
+    "timeDay": 710,
+    "timeWeek": 726,
+    "timeMonth": 726,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2025-08-07": 25
     }
@@ -572,18 +572,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/snapmaker.com.ico",
     "slug": "org-artisan",
     "status": "down",
-    "uptime": "95.38%",
+    "uptime": "95.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "25.60%",
     "uptimeYear": "88.78%",
-    "time": 171,
-    "timeDay": 139,
+    "time": 170,
+    "timeDay": 51,
     "timeWeek": 363,
     "timeMonth": 156,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-08-28": 65,
+      "2025-08-29": 65,
+      "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -625,8 +626,7 @@
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 273,
-      "2024-08-30": 171,
-      "2024-08-29": 1440
+      "2024-08-30": 171
     }
   },
   {
@@ -635,18 +635,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/snapmaker.com.ico",
     "slug": "org-snapmaker-2",
     "status": "down",
-    "uptime": "95.38%",
+    "uptime": "95.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "25.59%",
     "uptimeYear": "88.78%",
-    "time": 63,
-    "timeDay": 39,
-    "timeWeek": 79,
+    "time": 62,
+    "timeDay": 9,
+    "timeWeek": 78,
     "timeMonth": 40,
     "timeYear": 31,
     "dailyMinutesDown": {
-      "2025-08-28": 65,
+      "2025-08-29": 65,
+      "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -688,8 +689,7 @@
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 273,
-      "2024-08-30": 172,
-      "2024-08-29": 1440
+      "2024-08-30": 172
     }
   },
   {
@@ -698,18 +698,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/snapmaker.com.ico",
     "slug": "org-10-w-laser",
     "status": "down",
-    "uptime": "95.37%",
+    "uptime": "95.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "25.59%",
     "uptimeYear": "88.78%",
-    "time": 58,
-    "timeDay": 40,
+    "time": 57,
+    "timeDay": 9,
     "timeWeek": 202,
     "timeMonth": 53,
     "timeYear": 34,
     "dailyMinutesDown": {
-      "2025-08-28": 65,
+      "2025-08-29": 65,
+      "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -751,8 +752,7 @@
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 273,
-      "2024-08-30": 172,
-      "2024-08-29": 1440
+      "2024-08-30": 172
     }
   },
   {
@@ -761,18 +761,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/snapmaker.com.ico",
     "slug": "org-software",
     "status": "down",
-    "uptime": "95.20%",
+    "uptime": "95.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "25.59%",
     "uptimeYear": "88.78%",
     "time": 54,
-    "timeDay": 40,
+    "timeDay": 10,
     "timeWeek": 45,
     "timeMonth": 35,
     "timeYear": 32,
     "dailyMinutesDown": {
-      "2025-08-28": 65,
+      "2025-08-29": 65,
+      "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -814,8 +815,7 @@
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 273,
-      "2024-08-30": 172,
-      "2024-08-29": 1440
+      "2024-08-30": 172
     }
   },
   {
@@ -824,18 +824,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/snapmaker.com.ico",
     "slug": "org-materials",
     "status": "down",
-    "uptime": "95.37%",
+    "uptime": "95.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "25.59%",
     "uptimeYear": "88.78%",
     "time": 51,
-    "timeDay": 41,
+    "timeDay": 9,
     "timeWeek": 64,
     "timeMonth": 34,
     "timeYear": 32,
     "dailyMinutesDown": {
-      "2025-08-28": 65,
+      "2025-08-29": 65,
+      "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -877,8 +878,7 @@
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 273,
-      "2024-08-30": 172,
-      "2024-08-29": 1440
+      "2024-08-30": 172
     }
   },
   {
@@ -887,18 +887,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/snapmaker.com.ico",
     "slug": "org-community",
     "status": "down",
-    "uptime": "95.37%",
+    "uptime": "95.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "25.59%",
     "uptimeYear": "88.78%",
     "time": 50,
-    "timeDay": 38,
+    "timeDay": 8,
     "timeWeek": 64,
     "timeMonth": 36,
     "timeYear": 31,
     "dailyMinutesDown": {
-      "2025-08-28": 65,
+      "2025-08-29": 65,
+      "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -940,8 +941,7 @@
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 273,
-      "2024-08-30": 172,
-      "2024-08-29": 1440
+      "2024-08-30": 172
     }
   },
   {
@@ -956,9 +956,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 260,
-    "timeDay": 347,
-    "timeWeek": 279,
-    "timeMonth": 287,
+    "timeDay": 309,
+    "timeWeek": 268,
+    "timeMonth": 288,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2025-02-10": 21,
