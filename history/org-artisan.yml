@@ -1,7 +1,7 @@
 url: https://snapmaker.com/snapmaker-artisan
-status: up
-code: 200
-responseTime: 129
-lastUpdated: 2025-11-17T23:10:01.174Z
+status: down
+code: 500
+responseTime: 193
+lastUpdated: 2025-11-18T11:37:33.883Z
 startTime: 2022-08-31T08:57:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
