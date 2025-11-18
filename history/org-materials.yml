@@ -1,7 +1,7 @@
 url: https://snapmaker.com/materials
-status: up
-code: 200
-responseTime: 22
-lastUpdated: 2025-11-17T23:10:01.999Z
+status: down
+code: 500
+responseTime: 57
+lastUpdated: 2025-11-18T11:37:40.344Z
 startTime: 2022-08-31T08:57:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
