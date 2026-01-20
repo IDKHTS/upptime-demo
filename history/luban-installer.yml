@@ -1,7 +1,7 @@
 url: https://api.snapmaker.com/luban-installers
-status: down
-code: 502
-responseTime: 337
-lastUpdated: 2026-01-20T16:37:15.820Z
+status: up
+code: 200
+responseTime: 311
+lastUpdated: 2026-01-20T17:02:07.889Z
 startTime: 2023-01-17T11:09:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
