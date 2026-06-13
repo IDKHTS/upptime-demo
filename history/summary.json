@@ -73,15 +73,15 @@
     "url": "https://support.snapmaker.com/hc/en-us",
     "icon": "https://icons.duckduckgo.com/ip3/support.snapmaker.com.ico",
     "slug": "support-home",
-    "status": "down",
+    "status": "up",
     "uptime": "2.19%",
-    "uptimeDay": "80.03%",
-    "uptimeWeek": "51.26%",
-    "uptimeMonth": "78.37%",
+    "uptimeDay": "75.50%",
+    "uptimeWeek": "50.76%",
+    "uptimeMonth": "78.20%",
     "uptimeYear": "8.25%",
     "time": 124,
-    "timeDay": 85,
-    "timeWeek": 90,
+    "timeDay": 75,
+    "timeWeek": 91,
     "timeMonth": 108,
     "timeYear": 126,
     "dailyMinutesDown": {
@@ -440,7 +440,7 @@
       "2026-06-10": 462,
       "2026-06-11": 387,
       "2026-06-12": 608,
-      "2026-06-13": 280
+      "2026-06-13": 353
     }
   },
   {
@@ -480,15 +480,15 @@
     "url": "https://shop.snapmaker.com/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.snapmaker.com.ico",
     "slug": "ohters-shopify",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 458,
-    "timeDay": 167,
-    "timeWeek": 435,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "94.87%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.94%",
+    "time": 459,
+    "timeDay": 293,
+    "timeWeek": 447,
     "timeMonth": 537,
     "timeYear": 487,
     "dailyMinutesDown": {
@@ -497,7 +497,7 @@
       "2026-01-26": 37,
       "2026-01-27": 40,
       "2026-02-06": 75,
-      "2026-06-13": 1
+      "2026-06-13": 74
     }
   },
   {
