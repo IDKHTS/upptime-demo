@@ -73,16 +73,16 @@
     "url": "https://support.snapmaker.com/hc/en-us",
     "icon": "https://icons.duckduckgo.com/ip3/support.snapmaker.com.ico",
     "slug": "support-home",
-    "status": "down",
+    "status": "up",
     "uptime": "2.52%",
-    "uptimeDay": "60.84%",
+    "uptimeDay": "53.34%",
     "uptimeWeek": "56.04%",
-    "uptimeMonth": "68.97%",
+    "uptimeMonth": "68.37%",
     "uptimeYear": "9.55%",
     "time": 121,
-    "timeDay": 148,
+    "timeDay": 178,
     "timeWeek": 105,
-    "timeMonth": 105,
+    "timeMonth": 106,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2026-05-06": 390,
@@ -440,7 +440,7 @@
       "2026-06-18": 480,
       "2026-06-19": 592,
       "2026-06-20": 752,
-      "2026-06-21": 391
+      "2026-06-21": 651
     }
   },
   {
@@ -458,7 +458,7 @@
     "timeDay": 1786,
     "timeWeek": 2199,
     "timeMonth": 2036,
-    "timeYear": 2265,
+    "timeYear": 2264,
     "dailyMinutesDown": {
       "2025-08-19": 68,
       "2025-12-23": 21,
@@ -515,7 +515,7 @@
     "timeDay": 347,
     "timeWeek": 357,
     "timeMonth": 426,
-    "timeYear": 527,
+    "timeYear": 528,
     "dailyMinutesDown": {
       "2025-08-07": 25,
       "2025-12-05": 38,
@@ -538,7 +538,7 @@
     "timeDay": 331,
     "timeWeek": 213,
     "timeMonth": 254,
-    "timeYear": 430,
+    "timeYear": 431,
     "dailyMinutesDown": {
       "2025-08-07": 25,
       "2025-10-02": 17,
@@ -840,7 +840,7 @@
     "timeDay": 175,
     "timeWeek": 93,
     "timeMonth": 99,
-    "timeYear": 43,
+    "timeYear": 44,
     "dailyMinutesDown": {
       "2025-07-11": 273,
       "2025-08-05": 1312,
@@ -978,7 +978,7 @@
     "timeDay": 264,
     "timeWeek": 205,
     "timeMonth": 182,
-    "timeYear": 281,
+    "timeYear": 280,
     "dailyMinutesDown": {
       "2026-01-10": 33,
       "2026-01-20": 524,
