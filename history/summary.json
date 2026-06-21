@@ -75,12 +75,12 @@
     "slug": "support-home",
     "status": "down",
     "uptime": "2.48%",
-    "uptimeDay": "47.72%",
-    "uptimeWeek": "58.93%",
-    "uptimeMonth": "69.86%",
+    "uptimeDay": "47.08%",
+    "uptimeWeek": "57.86%",
+    "uptimeMonth": "69.61%",
     "uptimeYear": "9.42%",
     "time": 121,
-    "timeDay": 126,
+    "timeDay": 145,
     "timeWeek": 98,
     "timeMonth": 104,
     "timeYear": 124,
@@ -440,7 +440,7 @@
       "2026-06-18": 480,
       "2026-06-19": 592,
       "2026-06-20": 752,
-      "2026-06-21": 0
+      "2026-06-21": 108
     }
   },
   {
