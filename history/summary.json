@@ -73,16 +73,16 @@
     "url": "https://support.snapmaker.com/hc/en-us",
     "icon": "https://icons.duckduckgo.com/ip3/support.snapmaker.com.ico",
     "slug": "support-home",
-    "status": "down",
-    "uptime": "98.95%",
-    "uptimeDay": "52.76%",
-    "uptimeWeek": "78.62%",
-    "uptimeMonth": "62.63%",
-    "uptimeYear": "95.95%",
+    "status": "up",
+    "uptime": "98.93%",
+    "uptimeDay": "31.04%",
+    "uptimeWeek": "75.66%",
+    "uptimeMonth": "61.89%",
+    "uptimeYear": "95.87%",
     "time": 121,
-    "timeDay": 88,
-    "timeWeek": 118,
-    "timeMonth": 104,
+    "timeDay": 85,
+    "timeWeek": 121,
+    "timeMonth": 105,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2026-05-10": 202,
@@ -131,7 +131,7 @@
       "2026-07-02": 189,
       "2026-07-03": 287,
       "2026-07-04": 894,
-      "2026-07-05": 80
+      "2026-07-05": 483
     }
   },
   {
