@@ -1,7 +1,7 @@
 url: https://support.snapmaker.com/hc/en-us
-status: up
-code: 200
-responseTime: 280
-lastUpdated: 2026-08-17T08:44:48.374Z
+status: down
+code: 403
+responseTime: 20
+lastUpdated: 2026-08-17T09:23:54.481Z
 startTime: 2022-08-31T08:57:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
