@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.14%",
+    "uptimeYear": "95.15%",
     "time": 300,
     "timeDay": 132,
     "timeWeek": 225,
-    "timeMonth": 235,
+    "timeMonth": 230,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2025-09-02": 1430,
@@ -31,7 +31,6 @@
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
-      "2025-08-18": 1440,
       "2025-09-04": 884,
       "2025-09-03": 1440,
       "2025-11-18": 163
@@ -42,19 +41,18 @@
     "url": "https://support.snapmaker.com/hc/en-us",
     "icon": "https://icons.duckduckgo.com/ip3/support.snapmaker.com.ico",
     "slug": "support-home",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "40.73%",
-    "uptimeWeek": "44.42%",
-    "uptimeMonth": "63.43%",
-    "uptimeYear": "96.95%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "43.44%",
+    "uptimeWeek": "44.63%",
+    "uptimeMonth": "63.74%",
+    "uptimeYear": "96.98%",
     "time": 118,
-    "timeDay": 111,
+    "timeDay": 109,
     "timeWeek": 105,
-    "timeMonth": 104,
+    "timeMonth": 103,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2026-07-30": 137,
       "2026-07-31": 769,
       "2026-08-01": 1146,
       "2026-08-02": 1251,
@@ -72,7 +70,8 @@
       "2026-08-14": 1190,
       "2026-08-15": 859,
       "2026-08-16": 801,
-      "2026-08-17": 839
+      "2026-08-17": 839,
+      "2026-08-18": 0
     }
   },
   {
@@ -89,7 +88,7 @@
     "time": 2288,
     "timeDay": 1626,
     "timeWeek": 1807,
-    "timeMonth": 2001,
+    "timeMonth": 2009,
     "timeYear": 2213,
     "dailyMinutesDown": {
       "2025-08-19": 68,
@@ -121,7 +120,7 @@
     "time": 466,
     "timeDay": 717,
     "timeWeek": 456,
-    "timeMonth": 430,
+    "timeMonth": 433,
     "timeYear": 469,
     "dailyMinutesDown": {
       "2025-12-05": 38,
@@ -147,7 +146,7 @@
     "time": 514,
     "timeDay": 497,
     "timeWeek": 375,
-    "timeMonth": 460,
+    "timeMonth": 452,
     "timeYear": 491,
     "dailyMinutesDown": {
       "2025-12-05": 38,
@@ -169,7 +168,7 @@
     "time": 436,
     "timeDay": 490,
     "timeWeek": 414,
-    "timeMonth": 408,
+    "timeMonth": 402,
     "timeYear": 396,
     "dailyMinutesDown": {
       "2025-10-02": 17,
@@ -195,7 +194,7 @@
     "time": 132,
     "timeDay": 42,
     "timeWeek": 118,
-    "timeMonth": 119,
+    "timeMonth": 118,
     "timeYear": 137,
     "dailyMinutesDown": {
       "2025-09-04": 870,
@@ -215,7 +214,6 @@
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
-      "2025-08-18": 1440,
       "2025-11-18": 141
     }
   },
@@ -233,7 +231,7 @@
     "time": 50,
     "timeDay": 38,
     "timeWeek": 69,
-    "timeMonth": 96,
+    "timeMonth": 95,
     "timeYear": 58,
     "dailyMinutesDown": {
       "2025-09-04": 870,
@@ -253,7 +251,6 @@
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
-      "2025-08-18": 1440,
       "2025-11-18": 141
     }
   },
@@ -271,7 +268,7 @@
     "time": 52,
     "timeDay": 38,
     "timeWeek": 55,
-    "timeMonth": 84,
+    "timeMonth": 82,
     "timeYear": 61,
     "dailyMinutesDown": {
       "2025-09-04": 870,
@@ -291,7 +288,6 @@
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
-      "2025-08-18": 1440,
       "2025-11-18": 141
     }
   },
@@ -309,7 +305,7 @@
     "time": 44,
     "timeDay": 33,
     "timeWeek": 52,
-    "timeMonth": 66,
+    "timeMonth": 65,
     "timeYear": 49,
     "dailyMinutesDown": {
       "2025-09-04": 870,
@@ -329,7 +325,6 @@
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
-      "2025-08-18": 1440,
       "2025-11-18": 141
     }
   },
@@ -347,7 +342,7 @@
     "time": 50,
     "timeDay": 46,
     "timeWeek": 89,
-    "timeMonth": 102,
+    "timeMonth": 99,
     "timeYear": 56,
     "dailyMinutesDown": {
       "2025-09-04": 870,
@@ -367,7 +362,6 @@
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
-      "2025-08-18": 1440,
       "2025-11-18": 141
     }
   },
@@ -385,7 +379,7 @@
     "time": 50,
     "timeDay": 32,
     "timeWeek": 54,
-    "timeMonth": 79,
+    "timeMonth": 76,
     "timeYear": 57,
     "dailyMinutesDown": {
       "2025-09-04": 870,
@@ -405,7 +399,6 @@
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
-      "2025-08-18": 1440,
       "2025-11-18": 141
     }
   },
@@ -423,7 +416,7 @@
     "time": 283,
     "timeDay": 86,
     "timeWeek": 243,
-    "timeMonth": 223,
+    "timeMonth": 221,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2026-01-10": 33,
