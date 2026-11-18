@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/snapmaker.com.ico",
     "slug": "org-home",
     "status": "up",
-    "uptime": "96.21%",
+    "uptime": "96.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 309,
-    "timeDay": 184,
-    "timeWeek": 253,
-    "timeMonth": 237,
+    "timeDay": 323,
+    "timeWeek": 254,
+    "timeMonth": 244,
     "timeYear": 310,
-    "dailyMinutesDown": {
-      "2025-11-18": 163
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Support Home",
@@ -25,14 +23,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.snapmaker.com.ico",
     "slug": "support-home",
     "status": "down",
-    "uptime": "94.45%",
+    "uptime": "94.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.59%",
+    "uptimeYear": "76.32%",
     "time": 111,
-    "timeDay": 19,
-    "timeWeek": 40,
+    "timeDay": 18,
+    "timeWeek": 33,
     "timeMonth": 39,
     "timeYear": 107,
     "dailyMinutesDown": {
@@ -97,7 +95,8 @@
       "2026-09-25": 1440,
       "2026-09-24": 1440,
       "2026-09-23": 1440,
-      "2026-11-17": 363,
+      "2026-11-18": 331,
+      "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -143,10 +142,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 2215,
-    "timeDay": 5878,
-    "timeWeek": 2706,
-    "timeMonth": 2368,
+    "time": 2214,
+    "timeDay": 1771,
+    "timeWeek": 2544,
+    "timeMonth": 2360,
     "timeYear": 2183,
     "dailyMinutesDown": {
       "2025-12-23": 21,
@@ -174,11 +173,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 491,
-    "timeDay": 439,
-    "timeWeek": 546,
-    "timeMonth": 496,
-    "timeYear": 488,
+    "time": 490,
+    "timeDay": 522,
+    "timeWeek": 487,
+    "timeMonth": 505,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2025-12-05": 38,
       "2026-01-26": 37,
@@ -202,10 +201,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 529,
-    "timeDay": 625,
-    "timeWeek": 691,
-    "timeMonth": 673,
+    "time": 527,
+    "timeDay": 762,
+    "timeWeek": 677,
+    "timeMonth": 676,
     "timeYear": 525,
     "dailyMinutesDown": {
       "2025-12-05": 38,
@@ -224,11 +223,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 422,
-    "timeDay": 315,
-    "timeWeek": 417,
-    "timeMonth": 433,
-    "timeYear": 400,
+    "time": 423,
+    "timeDay": 568,
+    "timeWeek": 411,
+    "timeMonth": 439,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2025-12-05": 38,
       "2026-01-10": 21,
@@ -252,13 +251,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 140,
-    "timeDay": 51,
-    "timeWeek": 109,
-    "timeMonth": 140,
-    "timeYear": 137,
-    "dailyMinutesDown": {
-      "2025-11-18": 141
-    }
+    "timeDay": 313,
+    "timeWeek": 128,
+    "timeMonth": 149,
+    "timeYear": 138,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Org Snapmaker 2",
@@ -271,14 +268,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 70,
-    "timeDay": 37,
-    "timeWeek": 126,
-    "timeMonth": 119,
-    "timeYear": 81,
-    "dailyMinutesDown": {
-      "2025-11-18": 141
-    }
+    "time": 71,
+    "timeDay": 548,
+    "timeWeek": 155,
+    "timeMonth": 135,
+    "timeYear": 83,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Org 10W Laser",
@@ -292,13 +287,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 74,
-    "timeDay": 46,
-    "timeWeek": 144,
-    "timeMonth": 160,
-    "timeYear": 83,
-    "dailyMinutesDown": {
-      "2025-11-18": 141
-    }
+    "timeDay": 480,
+    "timeWeek": 149,
+    "timeMonth": 174,
+    "timeYear": 84,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Org Software",
@@ -306,19 +299,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/snapmaker.com.ico",
     "slug": "org-software",
     "status": "up",
-    "uptime": "96.09%",
+    "uptime": "96.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 62,
-    "timeDay": 49,
-    "timeWeek": 121,
-    "timeMonth": 128,
-    "timeYear": 72,
-    "dailyMinutesDown": {
-      "2025-11-18": 141
-    }
+    "time": 63,
+    "timeDay": 204,
+    "timeWeek": 104,
+    "timeMonth": 133,
+    "timeYear": 73,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Org Materials",
@@ -332,13 +323,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 77,
-    "timeDay": 68,
-    "timeWeek": 167,
-    "timeMonth": 173,
-    "timeYear": 92,
-    "dailyMinutesDown": {
-      "2025-11-18": 141
-    }
+    "timeDay": 218,
+    "timeWeek": 140,
+    "timeMonth": 179,
+    "timeYear": 93,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Org Community",
@@ -351,14 +340,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 70,
-    "timeDay": 44,
-    "timeWeek": 147,
-    "timeMonth": 142,
-    "timeYear": 82,
-    "dailyMinutesDown": {
-      "2025-11-18": 141
-    }
+    "time": 71,
+    "timeDay": 334,
+    "timeWeek": 127,
+    "timeMonth": 151,
+    "timeYear": 83,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Luban installer",
@@ -372,10 +359,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.46%",
     "time": 252,
-    "timeDay": 133,
-    "timeWeek": 152,
-    "timeMonth": 155,
-    "timeYear": 258,
+    "timeDay": 182,
+    "timeWeek": 137,
+    "timeMonth": 159,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2026-01-10": 33,
       "2026-01-20": 524,
